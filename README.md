@@ -8,7 +8,9 @@ Este projeto foi desenvolvido em grupo como parte das atividades da disciplina d
 - Em seguida, o usuário pode selecionar o shopping e o filme desejado, de maneira simples e interativa, apenas tocando nas opções apresentadas.
 - Ao final, o bot fornece o link direto para a compra do ingresso na sessão escolhida.
 
-Este projeto está alinhado com a proposta da disciplina de criar uma interface que facilita a interação entre humanos e computadores através da automação de tarefas complexas com linguagem natural.
+## Por que o projeto está de acordo com o solicitado?
+
+Nosso projeto atende ao requisito de criar uma interface simples e intuitiva, onde o usuário interage por linguagem natural no Telegram, transformando uma tarefa complexa em um processo automatizado e guiado.
 
 ## Integrantes do Grupo
 - Juan Soares
